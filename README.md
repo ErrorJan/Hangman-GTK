@@ -1,0 +1,1 @@
+This is just one of few little projects I worked on, during my holidays to practice my C++ knowledge.
